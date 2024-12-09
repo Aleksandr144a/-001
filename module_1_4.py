@@ -1,0 +1,8 @@
+my_string=input('Введите приветствие: ')
+print(my_string)
+print(len(my_string))
+print(my_string.upper())
+print(my_string.lower())
+print(my_string.replace(" ", ""))
+print('первый символ: ', my_string[0])
+print('последний символ', my_string[-1])
